@@ -274,3 +274,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x5199e55b5"}
 {"jsonrpc":"2.0","id":1,"result":"0x53009791f"}
 {"jsonrpc":"2.0","id":1,"result":"0x556da5b39"}
+{"error":"{\"Error_GUID\":\"14393039072535519426\",\"Error\":\"Failed all retries {GUID:14393039072535519426,error:rpc error: code = Unavailable desc = closing transport due to: connection error: desc = \\\"error reading from server: read tcp 10.35.13.27:52496-\\u003e5.161.52.48:443: use of closed network connection\\\", received prior goaway: code: NO_ERROR,chain_id:ETH1}\"}"}
